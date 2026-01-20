@@ -15,7 +15,7 @@ variable "aws_region" {
 
 
 variable "bucket_name" {
-  default = "static-website"
+  default = "static-website9642"
   type        = string
 }
 
